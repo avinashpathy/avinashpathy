@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a final year Electronics and Communication Engineering undergraduate from R.V. College of Engineering, Bangalore. 
+I am a final year Electronics and Communication Engineering undergraduate from RV College of Engineering, Bangalore. 
 <p> My areas of interest are data structures and algorithms, machine learning and robotics. </p>
 <p> Apart from coding, I love to explore various fields of technology and at present I'm learning full stack web development. </p>
 <p> Coding profiles:  <a href="https://leetcode.com/avinashpathy/"> LeetCode </a> <a href ="https://auth.geeksforgeeks.org/user/avinashpathy/practice"> GeeksForGeeks</a> <a href ="https://www.codechef.com/users/avinashpathy"> CodeChef</a> </p>
