@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ - Interested in Cloud Computing and Programming
+ - Currently working with AWS and Node.js
 <p> Coding profiles:  <a href="https://leetcode.com/avinashpathy/"> LeetCode </a> <a href ="https://auth.geeksforgeeks.org/user/avinashpathy/practice"> GeeksForGeeks</a> <a href ="https://www.codechef.com/users/avinashpathy"> CodeChef</a> </p>
 
 - 📫 How to reach me: <a href= "mailto: avinashpathy2001@gmail.com"> Email </a> and <a href = "https://www.linkedin.com/in/avinashpathy"> LinkedIn.
