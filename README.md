@@ -1,4 +1,5 @@
 ### Hi there 👋
+ - Currently working as Backend Developer
  - Interested in Cloud Computing and Programming
  - Currently working with AWS and Node.js
 <p> Coding profiles:  <a href="https://leetcode.com/avinashpathy/"> LeetCode </a> <a href ="https://auth.geeksforgeeks.org/user/avinashpathy/practice"> GeeksForGeeks</a> <a href ="https://www.codechef.com/users/avinashpathy"> CodeChef</a> </p>
